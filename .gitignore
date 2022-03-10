@@ -1,0 +1,6 @@
+/.clj-kondo/
+/.cljs_node_repl/
+/.cpcache/
+/.lsp/
+/.nrepl-port
+/node_modules/
